@@ -21,13 +21,13 @@ Dcard目前為全台最大的大學生匿名社群交流平台，每個人可隱
  * python worldcloud.py
 
 ## requirements:
-setuptools==39.1.0
-numpy==1.14.3
-wordcloud==1.4.1
-requests==2.18.4
-jieba==0.39
-pandas==0.23.0
-matplotlib==2.2.2
-six==1.11.0
-scipy==1.1.0
-pytest==3.5.1
+ * setuptools==39.1.0
+ * numpy==1.14.3
+ * wordcloud==1.4.1
+ * requests==2.18.4
+ * jieba==0.39
+ * pandas==0.23.0
+ * matplotlib==2.2.2
+ * six==1.11.0
+ * scipy==1.1.0
+ * pytest==3.5.1
