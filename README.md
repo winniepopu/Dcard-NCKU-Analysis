@@ -13,12 +13,12 @@ Dcard目前為全台最大的大學生匿名社群交流平台，每個人可隱
 原本是要直接使用Dcard的API去作爬蟲，但發現他爬一次只能爬30筆文章資料，要作分析的化資料量相當不足。後來在網路上查到了這支「Dcard-spider」爬蟲程式。他透過使用者輸入資料數，將此數除以30，計算需爬的page數，再把資料都爬下來。除了爬文章，他也可以下載圖片、文章，並可以針對特定資料作爬蟲，因此速度相當快。
 
 ## Usage:
-python article_by_month.py
-python content.py
-python department.py
-python gender.py
-python tag.py
-python worldcloud.py
+ * python article_by_month.py
+ * python content.py
+ * python department.py
+ * python gender.py
+ * python tag.py
+ * python worldcloud.py
 
 ## requirements:
 setuptools==39.1.0
